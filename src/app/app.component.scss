@@ -1,0 +1,15 @@
+#kittens {
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  background-image: url('https://images.unsplash.com/photo-1565506165343-81cc14780a4d?w=700');
+}
+
+#puppies {
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url('https://images.unsplash.com/photo-1548658166-136d9f6a7e76?w=700');
+}
